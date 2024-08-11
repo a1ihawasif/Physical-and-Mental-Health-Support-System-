@@ -10,11 +10,11 @@ Technicalities used: If-Else, Switch-Case-Break, Nested Loops (For and While), F
 
 Working of the Programme: The program asks the user
 
-to enter their name and then create a file (name.txt) for storing the users' history
+1. to enter their name and then create a file (name.txt) for storing the users' history
 
-to enter age and gender
+2. to enter age and gender
 
-to choose from a menu and then again choose from a sub-menu
+3. to choose from a menu and then again choose from a sub-menu
 
 Based on these choices and the use of if-else statements, for and while loops and switch case statements the programme makes the user run through the specified cases and then asks the user if they want to go through the process once again. This is achieved by a do-while loop.
 
